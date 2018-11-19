@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+publicCSS
 /.pnp
 .pnp.js
 
